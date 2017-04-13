@@ -1,4 +1,8 @@
-Nome artefato: gabriel.txt
+﻿Nome artefato: gabriel.txt
 Nome do(a) autor(a): Gabriel Henrique Martins Santana
 Data de criação: 12/04/2017
 Hora de criação: 21:49:25
+
+Nome do(a) autor(a) da alteração: João Vitor Rodrigues Santillo
+Data da alteração: 12/04/2017
+Hora da alteração: 21:58:30
