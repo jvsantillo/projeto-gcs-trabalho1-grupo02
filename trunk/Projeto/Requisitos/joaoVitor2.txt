@@ -1,4 +1,10 @@
 Nome artefato: joaoVitor2.txt
-Nome do(a) autor(a): João Vitor Rodirgues Santillo
-Data de criação: 13/04/2017
-Hora de criação: 17:47:30
+Nome do(a) autor(a): Joao Vitor Rodrigues Santillo
+Nome do professor da disciplina: Rubens de Castro Pereira
+Data de criacao: 13/04/2017
+Hora de criacao: 17:47:30
+
+\---------------------------Linha adicionada----------------------------------------------/
+
+Hora de alteracao: 18:11:34
+Autor da alteracao: Joao Vitor Rodrigeus Santillo

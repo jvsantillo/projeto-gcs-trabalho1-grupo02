@@ -1,0 +1,1 @@
+Este arquivo foi criado para que o GitHub permita o commit do diretório de pastas, podendo estas estarem vazias ou não. 
