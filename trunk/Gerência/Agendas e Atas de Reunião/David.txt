@@ -1,4 +1,9 @@
- Nome artefato: David.txt  
- Nome do(a) autor(a): David Matheus Santos Sousa	
- Data de cria��o: 14/04/2017
- Hora de cria��o: 21:22:56
+Nome artefato: David.txt  
+Nome do(a) autor(a): David Matheus Santos Sousa	
+Data de criação: 14/04/2017
+Hora de criação: 21:22:56
+ 
+Nome artefato: David.txt
+Nome do(a) autor(a) da alteração: Gabriel Henrique Martins Santana
+Data da alteração: 12/04/2017
+Hora da alteração: 21:57:15
