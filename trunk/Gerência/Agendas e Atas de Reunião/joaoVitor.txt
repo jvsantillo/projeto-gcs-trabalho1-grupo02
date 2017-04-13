@@ -1,4 +1,9 @@
 Nome artefato: joaoVitor.txt
-Nome do(a) autor(a): Jo�o Vitor Rodirgues Santillo
-Data de cria��o: 12/04/2017
-Hora de cria��o: 21:45:20
+Nome do(a) autor(a): João Vitor Rodirgues Santillo
+Data de criação: 12/04/2017
+Hora de criação: 21:45:20
+
+Nome artefato: joaoVitor.txt
+Nome do(a) autor(a) da alteração: Marcus Mitra Muniz Inácio
+Data da alteração: 12/04/2017
+Hora da alteração: 21:56:12
