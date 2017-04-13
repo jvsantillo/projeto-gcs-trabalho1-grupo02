@@ -2,4 +2,4 @@
  Nome artefato: David2.txt  
  Nome do(a) autor(a): David Matheus Santos Sousa	
  Data de criação: 13/04/2017
- Hora de criação: 16:51:56
+ Hora de criação: 16:54:45
